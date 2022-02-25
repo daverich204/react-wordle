@@ -54,6 +54,7 @@ export const WORDS = [
   'olive',
   'onion',
   'order',
+  'oreos',
   'pasta',
   'patty',
   'peach',
